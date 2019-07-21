@@ -1,0 +1,13 @@
+baseURL = "https://liudf.com/"
+languageCode = "zh-cn"
+title = "liudf's site"
+theme = "pixyll"
+
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+author = "liudf"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
